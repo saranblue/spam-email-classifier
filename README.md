@@ -48,7 +48,7 @@ spam-email-classifier/
 ## 🧪 Local Setup
 
 ## 1. Clone the repository:
-git clone https://github.com/your-username/spam-email-classifier.git
+git clone https://github.com/saranblue/spam-email-classifier.git
 cd spam-email-classifier
 
 ## 2. Install dependencies:
