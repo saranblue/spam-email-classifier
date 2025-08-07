@@ -5,7 +5,7 @@ A simple and effective **Spam Email Classifier** built using **Machine Learning 
 ---
 
 ## 🚀 Live Demo
-👉 [Click here to try the app](https://your-username-spam-email-classifier.streamlit.app)  
+👉 [Click here to try the app](https://saranblue-spam-email-classifier.streamlit.app)  
 (*Replace with your actual Streamlit app link after deployment*)
 
 ---
@@ -58,15 +58,18 @@ pip install -r requirements.txt
 streamlit run spam_app.py
 
 ## 🧰 Tech Stack
--Python
--Pandas
--scikit-learn
--Streamlit
+```
+- Python
+- Pandas
+- scikit-learn
+- Streamlit
+```
 
 ## 📚 Dataset
--📦 SMS Spam Collection Dataset
+```
+- 📦 SMS Spam Collection Dataset
 Link to Dataset
-
+```
 
 
 ## 💡 Future Improvements
