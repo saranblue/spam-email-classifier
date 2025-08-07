@@ -5,8 +5,8 @@ A simple and effective **Spam Email Classifier** built using **Machine Learning 
 ---
 
 ## 🚀 Live Demo
-👉 [Click here to try the app](https://saranblue-spam-email-classifier.streamlit.app)  
-(*Replace with your actual Streamlit app link after deployment*)
+👉 [Click here to try the app](https://spam-email-classifier-5vr73p2od7jprmavi5mfvg.streamlit.app/)  
+
 
 ---
 
@@ -22,8 +22,9 @@ A simple and effective **Spam Email Classifier** built using **Machine Learning 
 
 ## 📷 Preview
 
-![App Screenshot](https://via.placeholder.com/800x400.png?text=App+Screenshot+Here)  
-*(Optional: replace with your app screenshot or remove this section)*
+![App Screenshot]()  
+![App Screenshot]()  
+
 
 ---
 
