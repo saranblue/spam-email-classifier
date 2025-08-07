@@ -22,7 +22,7 @@ A simple and effective **Spam Email Classifier** built using **Machine Learning 
 
 ## 📷 Preview
 
-![App Screenshot](spam-email-classifier/spam1.png)  
+![App Screenshot](spam1.png)  
 ![App Screenshot](spam2.png)
 
 
